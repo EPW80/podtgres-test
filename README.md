@@ -2,7 +2,7 @@
 
 ## uses 'postgres' npm package
 
-# running:
+# running
 
 1. git clone this
 
@@ -26,5 +26,4 @@
 
 # Where am I deployed?
 
-<https://deploy-this-repo-johncmanuel.vercel.app/>
-
+[Vercel](https://vercel.com/api/toolbar/link/deploy-this-repo-erikwilliams.vercel.app?via=deployment-domains-list&p=1&page=/)

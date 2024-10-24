@@ -26,4 +26,4 @@
 
 # Where am I deployed?
 
-[Vercel](https://vercel.com/api/toolbar/link/deploy-this-repo-erikwilliams.vercel.app?via=deployment-domains-list&p=1&page=/)
+[Vercel](https://deploy-this-repo-erik-williams.vercel.app/)
